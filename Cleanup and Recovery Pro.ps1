@@ -1,5 +1,5 @@
 <#
-    Created by Mathew Pittard for Talison Lithium
+    Created by Mathew Pittard (TVDOfficial)
 	This script simplifies system cleanup and user profile management. 
 	It lets you create restore points, empty the recycle bin, and delete temporary files in just one click.
 	You can also manage user profiles through a user-friendly interface, easily selecting and removing profiles. 

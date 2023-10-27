@@ -59,5 +59,6 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
 ---
 ## Screenshots:
 
-![image](https://github.com/TVDOfficial/CleanupandRecoveryPro/assets/27910650/6fdfc778-2695-457e-9d98-1829c5ba6825)
+![image](https://github.com/TVDOfficial/CleanupandRecoveryPro/assets/27910650/ddcd6a60-fdb6-482c-a50e-dd72a282666c)
+
 
